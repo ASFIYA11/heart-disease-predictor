@@ -2,7 +2,8 @@
 
 This Streamlit web app predicts the likelihood of heart disease based on user input, using a trained Random Forest model. Built with Python, Streamlit, and scikit-learn.
 
-🔗 **[Live App](https://heart-disease-predictor-heartprediction.streamlit.app)**
+🔗 **[Live App](https://heart-predictor.streamlit.app)**
+
 
 
  🛠️ Features
