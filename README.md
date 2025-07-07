@@ -11,5 +11,6 @@ This Streamlit web app predicts the likelihood of heart disease based on user in
 - Streamlit-powered interactive UI
 - Clean and responsive design
 
+LINK:
+# https://heart-predictor.streamlit.app
 
-# https://asfiya11-heart-disease-predictor-main-app-xyz.streamlit.app
